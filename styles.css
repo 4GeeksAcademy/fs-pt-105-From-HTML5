@@ -1,0 +1,30 @@
+body{
+    padding: 50px;
+}
+.row{
+    padding: 5px;
+}
+.group{
+    border: 1px solid rgb(145, 143, 143);
+    border-radius: 10px;
+    overflow: hidden;
+    width: auto; 
+}
+.head1{
+    display: flex;
+    justify-content: flex-start;
+    background-color:rgb(240, 238, 238);
+    border: 1px solid rgb(145, 143, 143);
+    margin: 10px;
+    padding: 1cqi;
+    border-radius: 10px;
+}
+.formu{
+    margin: 10px;
+    padding: 20px;
+}
+.butt{
+    background-color:rgb(240, 238, 238);
+    border-top: 1px solid rgb(145, 143, 143);
+    padding: 10px;
+}
