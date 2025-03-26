@@ -1,7 +1,7 @@
 body{
-    padding: 50px;
+    padding: 5px;
 }
-.row{
+.col-sm-12{
     padding: 5px;
 }
 .group{
@@ -16,12 +16,13 @@ body{
     background-color:rgb(240, 238, 238);
     border: 1px solid rgb(145, 143, 143);
     margin: 10px;
-    padding: 1cqi;
+    padding: 5px;
+    padding-left: 19px;
     border-radius: 10px;
 }
 .formu{
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 .butt{
     background-color:rgb(240, 238, 238);
